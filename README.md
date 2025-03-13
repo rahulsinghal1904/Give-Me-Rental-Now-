@@ -1,4 +1,4 @@
-# Property Pulse
+# Give-me-rental-now!
 
 > A web application to help you find your next rental property.
 
